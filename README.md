@@ -1,2 +1,2 @@
-# AI-Chalenge
-This repo contains files for Microsoft AI Challenge India 2018
+#AI-Chalenge
+This repo contains codes for Microsoft AI Challenge India 2018
