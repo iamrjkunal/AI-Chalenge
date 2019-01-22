@@ -1,4 +1,6 @@
 #ignore update of dataset
 data
+data.tsv
+glove.6B.zip
 data.zip
 
